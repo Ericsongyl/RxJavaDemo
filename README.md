@@ -2,10 +2,10 @@
 Android:this is a demo for RxJava used on Android
 
 #Get start
-**Declare Subscription**
+**1.Declare Subscription**
 
 
-**Create Observable**
+**2.Create Observable**
 
 
-**The most important step:**
+**3.The most important step:**
